@@ -1,0 +1,15 @@
+{
+  "name": "data_structs_algorithms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hash_tables.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.6.4"
+  }
+}
